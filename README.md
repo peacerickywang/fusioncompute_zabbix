@@ -25,8 +25,6 @@
 5. 添加开机启动，chkconfig zabbix-agent on
 
 ## zabbix页面操作配置
-1. 创建云资源后cop自动创建自发现主机组和主机
+1. 按顺序导入fc_monitor_host.xml, fc_monitor_vm.xml, fc_zabbix.xml三个模板
 
-2. 按顺序导入fc_monitor_host.xml, fc_monitor_vm.xml, fc_zabbix.xml三个模板
-
-3. 关联fc_zabbix.xml和自动创建的【主机】
+2. 关联fc_zabbix.xml和自动创建的【主机】
