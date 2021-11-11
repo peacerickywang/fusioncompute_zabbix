@@ -1,0 +1,64 @@
+2020-08-20 09:48:23.820 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Starting ZabbixAgentApiServiceApplication on wangrsa with PID 17948 (D:\zabbix-agent-api-service\target\classes started by wangrsa in D:\zabbix-agent-api-service)
+2020-08-20 09:48:23.831 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - No active profile set, falling back to default profiles: default
+2020-08-20 09:48:23.922 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-20 09:48:23.923 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-20 09:48:25.581 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7000 (http)
+2020-08-20 09:48:25.597 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7000"]
+2020-08-20 09:48:25.597 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-20 09:48:25.598 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-20 09:48:25.762 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/zabbixagent] - Initializing Spring embedded WebApplicationContext
+2020-08-20 09:48:25.763 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1839 ms
+2020-08-20 09:48:26.083 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-20 09:48:26.387 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-20 09:48:26.406 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7000"]
+2020-08-20 09:48:26.441 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7000 (http) with context path '/zabbixagent'
+2020-08-20 09:48:26.462 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Started ZabbixAgentApiServiceApplication in 4.161 seconds (JVM running for 6.814)
+2020-08-20 09:48:31.171 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-20 09:54:16.665 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Starting ZabbixAgentApiServiceApplication on wangrsa with PID 27624 (D:\zabbix-agent-api-service\target\classes started by wangrsa in D:\zabbix-agent-api-service)
+2020-08-20 09:54:16.670 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - No active profile set, falling back to default profiles: default
+2020-08-20 09:54:16.755 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-20 09:54:16.756 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-20 09:54:18.090 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7000 (http)
+2020-08-20 09:54:18.104 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7000"]
+2020-08-20 09:54:18.105 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-20 09:54:18.106 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-20 09:54:18.263 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/zabbixagent] - Initializing Spring embedded WebApplicationContext
+2020-08-20 09:54:18.263 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1507 ms
+2020-08-20 09:54:18.519 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-20 09:54:18.774 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-20 09:54:18.792 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7000"]
+2020-08-20 09:54:18.828 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7000 (http) with context path '/zabbixagent'
+2020-08-20 09:54:18.845 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Started ZabbixAgentApiServiceApplication in 3.031 seconds (JVM running for 4.626)
+2020-08-20 09:54:22.379 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-20 10:01:35.354 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Starting ZabbixAgentApiServiceApplication on wangrsa with PID 20236 (D:\zabbix-agent-api-service\target\classes started by wangrsa in D:\zabbix-agent-api-service)
+2020-08-20 10:01:35.361 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - No active profile set, falling back to default profiles: default
+2020-08-20 10:01:35.462 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-20 10:01:35.463 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-20 10:01:37.088 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7000 (http)
+2020-08-20 10:01:37.103 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7000"]
+2020-08-20 10:01:37.105 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-20 10:01:37.105 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-20 10:01:37.305 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/zabbixagent] - Initializing Spring embedded WebApplicationContext
+2020-08-20 10:01:37.305 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1842 ms
+2020-08-20 10:01:37.596 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-20 10:01:37.903 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-20 10:01:37.923 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7000"]
+2020-08-20 10:01:37.971 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7000 (http) with context path '/zabbixagent'
+2020-08-20 10:01:37.997 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Started ZabbixAgentApiServiceApplication in 3.605 seconds (JVM running for 5.585)
+2020-08-20 10:02:05.608 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-20 10:02:12.999 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Starting ZabbixAgentApiServiceApplication on wangrsa with PID 13396 (D:\zabbix-agent-api-service\target\classes started by wangrsa in D:\zabbix-agent-api-service)
+2020-08-20 10:02:13.004 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - No active profile set, falling back to default profiles: default
+2020-08-20 10:02:13.102 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-20 10:02:13.103 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-20 10:02:14.771 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7000 (http)
+2020-08-20 10:02:14.787 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7000"]
+2020-08-20 10:02:14.789 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-20 10:02:14.789 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-20 10:02:14.977 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/zabbixagent] - Initializing Spring embedded WebApplicationContext
+2020-08-20 10:02:14.978 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1874 ms
+2020-08-20 10:02:15.309 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-20 10:02:15.626 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-20 10:02:15.651 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7000"]
+2020-08-20 10:02:15.701 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7000 (http) with context path '/zabbixagent'
+2020-08-20 10:02:15.719 [restartedMain] INFO  c.d.z.ZabbixAgentApiServiceApplication - Started ZabbixAgentApiServiceApplication in 3.679 seconds (JVM running for 5.444)
+2020-08-20 10:02:41.143 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
